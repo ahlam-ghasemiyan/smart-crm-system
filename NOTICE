@@ -1,0 +1,159 @@
+================================================================================
+                            NOTICE
+================================================================================
+
+Project:        Smart CRM System
+Copyright:      Copyright (c) 2025 Ahlam Ghasemiyan. All rights reserved.
+Author:         Ahlam Ghasemiyan
+Repository:     https://github.com/ahlam-ghasemiyan/smart-crm-system
+License:        MIT License (with mandatory attribution requirements)
+Contact:        Via GitHub — https://github.com/ahlam-ghasemiyan
+
+================================================================================
+1. PURPOSE OF THIS NOTICE
+================================================================================
+
+This NOTICE file supplements the LICENSE file and specifies the
+attribution requirements, prohibited uses, and legal enforcement policy
+applicable to the Smart CRM System project (the "Software").
+
+By using, copying, modifying, merging, publishing, distributing,
+sublicensing, or selling the Software, you (the "User") agree to be
+bound by the terms set forth in this NOTICE and in the LICENSE file.
+
+In the event of any conflict between this NOTICE and the LICENSE file,
+the more restrictive provision shall prevail.
+
+================================================================================
+2. MANDATORY ATTRIBUTION
+================================================================================
+
+Any use of the Software, in whole or in substantial part, REQUIRES that
+the following attribution notice be prominently included:
+
+    This project is based on "Smart CRM System" by Ahlam Ghasemiyan.
+    Original repository: https://github.com/ahlam-ghasemiyan/smart-crm-system
+
+This attribution must appear in at least one of the following locations:
+
+    (a) The README file of any derivative work;
+    (b) The "About" or "Credits" section of any distributed application;
+    (c) The source code header of any file that incorporates or is
+        derived from the Software;
+    (d) Any documentation, publication, or presentation that references
+        the Software.
+
+The attribution must be presented in a manner that is:
+    - Clear and legible;
+    - Not obscured, hidden, or otherwise diminished;
+    - Accessible to any end user of the derivative work.
+
+================================================================================
+3. PROHIBITED USES
+================================================================================
+
+The following actions are EXPRESSLY PROHIBITED without prior written
+permission from the author:
+
+    3.1  Removing, obscuring, modifying, or replacing the author's name
+         or copyright notice from the source code, documentation, or any
+         distributed artifact.
+
+    3.2  Claiming authorship, ownership, or original creation of the
+         Software or any substantial portion thereof.
+
+    3.3  Distributing the Software, in whole or in part, without
+         including the mandatory attribution notice specified in
+         Section 2 of this NOTICE.
+
+    3.4  Selling, licensing, or otherwise commercializing the Software
+         as a standalone product without a separate commercial license
+         obtained from the author.
+
+    3.5  Removing, altering, or concealing this NOTICE file or the
+         LICENSE file from any distribution, whether in source or
+         binary form.
+
+    3.6  Using the Software in a manner that suggests endorsement,
+         affiliation, or sponsorship by the author without explicit
+         written consent.
+
+    3.7  Incorporating the Software into proprietary or closed-source
+         products without a separate commercial license, when such use
+         results in the removal of attribution.
+
+================================================================================
+4. PERMITTED USES
+================================================================================
+
+Subject to the conditions in Sections 2 and 3, the following uses are
+permitted:
+
+    - Personal, educational, and research use;
+    - Modification and adaptation for non-commercial purposes;
+    - Integration into open-source projects that preserve attribution;
+    - Commercial use WITH full attribution as specified in Section 2;
+    - Redistribution, provided this NOTICE and the LICENSE are preserved
+      in their entirety.
+
+================================================================================
+5. COMMERCIAL LICENSING
+================================================================================
+
+For commercial use that does not satisfy the attribution requirements
+of Section 2, or for integration into proprietary software, a separate
+commercial license must be obtained from the author.
+
+To request a commercial license, please contact the author via:
+
+    GitHub: https://github.com/ahlam-ghasemiyan
+
+The author reserves the right to grant, deny, or condition commercial
+licenses at their sole discretion.
+
+================================================================================
+6. LEGAL ENFORCEMENT
+================================================================================
+
+Any use of the Software in violation of the terms set forth in this
+NOTICE or in the LICENSE file constitutes copyright infringement under
+applicable national and international law.
+
+The author reserves the right to take any and all legal and
+administrative actions necessary to enforce these terms, including but
+not limited to:
+
+    (a) Issuing DMCA takedown notices to hosting platforms, package
+        registries, or content delivery networks;
+
+    (b) Publicly disclosing the identity of infringing parties and the
+        nature of the violation;
+
+    (c) Pursuing legal remedies, including claims for damages, injunctive
+        relief, and recovery of legal costs, in any competent jurisdiction.
+
+================================================================================
+7. DISCLAIMER OF WARRANTY
+================================================================================
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+================================================================================
+8. ACKNOWLEDGMENT
+================================================================================
+
+By using the Software, the User acknowledges that they have read,
+understood, and agreed to be bound by the terms of this NOTICE and the
+accompanying LICENSE file.
+
+================================================================================
+                            END OF NOTICE
+================================================================================
+
+For the full text of the license, please refer to the LICENSE file.
+For the primary project documentation, please refer to the README.md file.
